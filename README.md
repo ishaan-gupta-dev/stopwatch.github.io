@@ -24,6 +24,6 @@ A stopwatch app that can start,stop and reset the timer. This is created using o
 This app is already hosted on
 
 ```bash
-https://ishaan-gupta-developer.github.io/stopwatch.github.io/
+https://ishaan-gupta-dev.github.io/stopwatch.github.io/
 ```
 
